@@ -122,7 +122,6 @@
         }
         50% {
             transform: scale(0.5) rotate(180deg);
-            fill: rgb(194 157 19);
         }
         100% {
             transform: rotate(0deg);
